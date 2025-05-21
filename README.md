@@ -80,7 +80,7 @@ Capture the waveforms and include the results in the final report.
     end
 endmodule
 ```
-## OUTPUT
+## Output
 ![Screenshot 2025-05-21 124028](https://github.com/user-attachments/assets/cfeeac45-d5ab-4f95-b797-4f25c476a538)
 
 
